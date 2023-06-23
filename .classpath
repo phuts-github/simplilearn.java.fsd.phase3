@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="currency-conversion-service/src/main/java"/>
+	<classpathentry kind="src" path="currency-conversion-service/src/test/java"/>
+	<classpathentry kind="src" path="currency-exchange-service/src/main/java"/>
+	<classpathentry kind="src" path="currency-exchange-service/src/test/java"/>
+	<classpathentry kind="src" path="journal-entry/src/main/java"/>
+	<classpathentry kind="src" path="journal-entry/src/test/java"/>
+	<classpathentry kind="src" path="junit-example/src/main/java"/>
+	<classpathentry kind="src" path="junit-example/src/test/java"/>
+	<classpathentry kind="src" path="spring_MVC_example_Model/src.main.java"/>
+	<classpathentry kind="src" path="spring_MVC_example_Multiple_Controller/src.main.java"/>
+	<classpathentry kind="src" path="spring_MVC_example_Single_Controller/src.main.java"/>
+	<classpathentry kind="src" path="spring_MVC_example/src.main.java"/>
+	<classpathentry kind="src" path="spring-project - Copy/src/main/java"/>
+	<classpathentry kind="src" path="spring-project - Copy/src/test/java"/>
+	<classpathentry kind="src" path="spring-project/src/main/java"/>
+	<classpathentry kind="src" path="spring-project/src/test/java"/>
+	<classpathentry kind="src" path="spring-project2/src/main/java"/>
+	<classpathentry kind="src" path="spring-project2/src/test/java"/>
+	<classpathentry kind="src" path="spring-project3-auto-wiring/src/main/java"/>
+	<classpathentry kind="src" path="spring-project3-auto-wiring/src/test/java"/>
+	<classpathentry kind="src" path="spring.hibernate.template.example/src/main/java"/>
+	<classpathentry kind="src" path="spring.hibernate.template.example/src/test/java"/>
+	<classpathentry kind="src" path="spring.jdbc/src/main/java"/>
+	<classpathentry kind="src" path="spring.jdbc/src/test/java"/>
+	<classpathentry kind="src" path="springboot-example/src/main/java"/>
+	<classpathentry kind="src" path="springboot-example/src/test/java"/>
+	<classpathentry kind="src" path="springboot-mvc-app/src/main/java"/>
+	<classpathentry kind="src" path="springboot-mvc-app/src/test/java"/>
+	<classpathentry kind="lib" path="currency-conversion-service/.mvn/wrapper/maven-wrapper.jar"/>
+	<classpathentry kind="lib" path="currency-exchange-service/.mvn/wrapper/maven-wrapper.jar"/>
+	<classpathentry kind="lib" path="journal-entry/.mvn/wrapper/maven-wrapper.jar"/>
+	<classpathentry kind="lib" path="junit-example/.mvn/wrapper/maven-wrapper.jar"/>
+	<classpathentry kind="lib" path="junit-example/bin/.mvn/wrapper/maven-wrapper.jar"/>
+	<classpathentry kind="lib" path="spring-project2/target/spring-project2-0.0.1-SNAPSHOT.jar"/>
+	<classpathentry kind="lib" path="spring-project3-auto-wiring/target/spring-project2-0.0.1-SNAPSHOT.jar"/>
+	<classpathentry kind="lib" path="springboot-example/.mvn/wrapper/maven-wrapper.jar"/>
+	<classpathentry kind="lib" path="springboot-example/bin/.mvn/wrapper/maven-wrapper.jar"/>
+	<classpathentry kind="lib" path="springboot-mvc-app/.mvn/wrapper/maven-wrapper.jar"/>
+	<classpathentry kind="output" path="currency-conversion-service/target/classes"/>
+</classpath>
